@@ -1,0 +1,23 @@
+.learn-container{
+    background-color: lightsteelblue;
+    display: inline-block;
+    height: 950px;
+    width: 75%;
+    // padding: 10px;
+}
+.course-category{
+    background-color: rgb(130, 137, 147);
+    display: inline-block;
+    height: inherit;
+    width: 35%;
+    padding: 10px;
+    margin-left: 0.5%;
+}
+.course-contents{
+    background-color: rgb(222, 176, 196);
+    display: inline-block;
+    height: inherit;
+    width: 60%;
+    padding: 10px;
+    margin-left: 0.5%;
+}
