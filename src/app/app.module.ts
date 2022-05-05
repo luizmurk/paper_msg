@@ -15,6 +15,7 @@ import { SamplePageComponent } from './pages/sample-page/sample-page.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
+    PagesModule
   ],
   providers: [],
   bootstrap: [MainPageComponent]

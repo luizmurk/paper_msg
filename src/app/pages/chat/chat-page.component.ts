@@ -1,9 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-learn-page',
-  templateUrl: './learn-page.component.html',
-  styleUrls: ['./learn-page.component.scss']
+  selector: 'app-chat-page',
+  templateUrl: './chat-page.component.html',
+  styleUrls: ['./chat-page.component.scss']
 })
 export class LearnPageComponent implements OnInit {
 
